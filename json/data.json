@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-1.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-2.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-3.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-4.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-5.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-6.jpg",
+        "price" : 200
+    },
+     {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-7.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-8.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-9.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-10.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-11.jpg",
+        "price" : 200
+    },
+    {
+        "title" : "Modern Sofa",
+        "img"   : "/public/product-12.jpg",
+        "price" : 200
+    }
+]
